@@ -18,6 +18,11 @@
 
 ![카카오공유](README.assets/카카오공유-16691726642811.png)
 
+- 메인 페이지
+
+![main (1634x804)](https://user-images.githubusercontent.com/67423191/203558771-fc99fdbe-b122-4ad6-ba7f-e851eaa7bc5a.gif)
+
+
 - 장바구니
 
 ![cart](README.assets/cart.jpg)
